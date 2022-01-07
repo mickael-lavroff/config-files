@@ -57,10 +57,7 @@
             "bellStyle": "audible",
             "closeOnExit": "never",
             "colorScheme": "Campbell",
-            "font": 
-            {
-                "face": "CaskaydiaCove Nerd Font Mono"
-            },
+            "fontFace": "CaskaydiaCove Nerd Font Mono",
             "historySize": 9999,
             "padding": "10",
             "suppressApplicationTitle": false,
